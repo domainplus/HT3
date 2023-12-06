@@ -1,4 +1,4 @@
-from datetime import date, datetime
+from datetime import datetime, date
 
 
 def get_birthdays_per_week(users):
